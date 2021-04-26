@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # _Hello!_
+=======
+# _Bonjour!_
+>>>>>>> main
 #### _{Brief description of application}_
 #### By _Jesse White_
 ## Technologies Used
